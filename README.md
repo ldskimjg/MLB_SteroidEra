@@ -6,6 +6,8 @@ From the late ‘80s through the late 2000s, a number of players were believed t
 
 For conclusion, check out our conclusion report.
 
+----------------------
+
 Data is from:
 https://www.kaggle.com/timschutzyang/dataset1 or _data folder
 
