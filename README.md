@@ -7,5 +7,5 @@ From the late ‘80s through the late 2000s, a number of players were believed t
 Data is from:
 https://www.kaggle.com/timschutzyang/dataset1
 
-The whole code and extracted data is accesible at:
+The whole code and extracted data are accesible at:
 https://rstudio.cloud/project/645984
