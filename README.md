@@ -1,4 +1,4 @@
-# MLB_SteroidEra
+# How much more power did Performance Enhance Drugs bring into the MLB league during the Steroid Era?
 
 Did Performance Enhance Drugs really affected the league? We used bayesian approach to see if batters held advantage over pitchers during the MLB's steroid era.
 
