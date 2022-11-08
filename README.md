@@ -8,6 +8,10 @@ For conclusion, check out our conclusion report.
 
 ----------------------
 
+Note: Because some of the MLB seasons had less games (due to going on strike and etc.) and some teams were not yet in the league, we added some adjustment in order to compare between different years.
+
+----------------------
+
 Data is from:
 https://www.kaggle.com/timschutzyang/dataset1 or _data folder
 
